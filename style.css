@@ -1,28 +1,28 @@
-/* Page background */
+/*page background*/
 body {
   background-color: orange;
-  font-family: Arial, sans-serif;
-  margin: 40px;
+  fontfamily: times-new-roman, arial, sans-serif; 
 }
 
-/* Main title */
+/*main headline*/
 h1 {
-  color: white;
-  text-align: center;
-  font-size: 40px;
+  color: yellow;
+  font-aligned: center;
+  font-size: 70px; 
 }
 
-/* Secondary heading */
+/*second headline*/
 h2 {
-  color: darkblue;
-  margin-top: 30px;
+  color: white;
+  font-aligned: left;
+  font-size: 40px; 
 }
 
-/* Paragraph text */
+/*paragraph heading*/
 p {
   color: black;
   font-size: 22px;
   background-color: white;
-  padding: 10px;
-  border-radius: 5px;
+  padding: 20px;
+  border radius: 10px; 
 }

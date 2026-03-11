@@ -1,15 +1,28 @@
+/* Page background */
 body {
-  background-color: black; 
-  fontfamily: times-new-roman; 
+  background-color: orange;
+  font-family: Arial, sans-serif;
+  margin: 40px;
 }
 
+/* Main title */
 h1 {
-  color: darkblue; 
-  text-align: center; 
+  color: white;
+  text-align: center;
+  font-size: 40px;
 }
 
+/* Secondary heading */
+h2 {
+  color: darkblue;
+  margin-top: 30px;
+}
+
+/* Paragraph text */
 p {
-  color: black; 
-  font-size: 30px; 
-  line-height: 1.5; 
+  color: black;
+  font-size: 22px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
 }
